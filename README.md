@@ -1,8 +1,11 @@
 ### Hello world!! Eu sou o Caio Rangel
 
-- 🔭 Atualmente trabalho com front-end
+- 👨‍💻 Atualmente trabalho com front-end
 - 🌱 Estou aprendendo JavaScript
 - 😄 Pronouns: ele/dele
+- ♋ canceriano - 23 anos
+- 💻 Eng. de Computação (UFOP)
+- 🏖️ Angra dos Reis x Volta Redonda
 - 😻 Sou apaixonado em gatos (tenho uma chamado Pujhin)
 
 <div>
