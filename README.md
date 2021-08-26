@@ -6,7 +6,7 @@
 - ♋ canceriano - 23 anos
 - 💻 Eng. de Computação (UFOP)
 - 🏖️ Angra dos Reis x Volta Redonda
-- 😻 Sou apaixonado em gatos (tenho uma chamado Pujhin)
+- 😻 Sou apaixonado em gatos (tenho um chamado Pujhin)
 
 <div>
   <a href="https://github.com/caiocrangell">
