@@ -1,10 +1,10 @@
 ### Hello world!! Eu me chamo Caio César, tenho 23 anos e sou graduando de Engenharia de Computação na UFOP. Atualmente estou estagiando na Autonomous como desenvolvedor front-end. Estarei colocando aqui alguns repositórios dos trabalhos que realizo e conteúdo aprendido em aulas. Sintam-se a vontade para utilizar do material como referência bem como entrar em contato comigo para quaisquer dúvidas.
 
-- 👨‍💻 Atualmente trabalho com front-end
-- 🌱 Estou aprendendo JavaScript
-- 😄 Pronouns: ele/dele
-- ♋ canceriano - 23 anos
+- 👨‍💻 Atualmente trabalho como front-end
 - 💻 Eng. de Computação (UFOP)
+- 🌱 Estou aprendendo JavaScript
+- 😃 Pronomes: ele/dele
+- ♋ Canceriano - 23 anos
 - 🏖️ Angra dos Reis x Volta Redonda
 - 😻 Sou apaixonado em gatos (tenho um chamado Pujhin)
 
