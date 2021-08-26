@@ -2,9 +2,8 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estou aprendendo JavaScript
-- 📫 Email para contato: caiocrangelluciano@gmail.com
 - 😄 Pronouns: ele/dele
-- 🐱‍👤 Tenho um gatinho chamado Pujhin (sou apaixonado em gatos)
+- 😻 Sou apaixonado em gatos (tenho uma chamado Pujhin)
 
 <div>
   <a href="https://github.com/caiocrangell">
@@ -16,7 +15,19 @@
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Caio-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <img align="center" alt="Caio-Bootstrap" height="30" width="40" src="https://github.com/caiocrangell/devicon-master/blob/main/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Caio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Caio-C" height="30" width="40" src="https://github.com/caiocrangell/devicon-master/blob/main/icons/c/c-original.svg">
+</div>
+ 
+##
+  
+<div> 
+  <a href="https://www.youtube.com/channel/UCJGtqz41yVTa5thVB0XL2Pg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/caiocrangel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:caiocrangelluciano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-c%C3%A9sar-rangel-1a756a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
