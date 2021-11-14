@@ -4,7 +4,7 @@ Eu me chamo Caio César, tenho 23 anos e sou graduando de Engenharia de Computa�
 
 - 👨‍💻 Atualmente trabalho como front-end em <a href="https://goautonomous.com.br" target="_blank">Go Autonomous</a>
 - 💻 Eng. de Computação (UFOP)
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo desenvolvimento mobile
 - 😃 Pronomes: ele/dele
 - ♋ Canceriano - 23 anos
 - 🏖️ Angra dos Reis x Volta Redonda
