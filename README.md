@@ -2,7 +2,7 @@
 
 Eu me chamo Caio César, tenho 23 anos e sou graduando de Engenharia de Computação na UFOP. Atualmente estou estagiando na Autonomous como desenvolvedor front-end. Estarei colocando aqui alguns repositórios dos trabalhos que realizo e conteúdo aprendido em aulas. Sintam-se a vontade para utilizar do material como referência bem como entrar em contato comigo para quaisquer dúvidas.
 
-- 👨‍💻 Atualmente trabalho como front-end em goautonomous.com.br
+- 👨‍💻 Atualmente trabalho como front-end em <a href="https://goautonomous.com.br">
 - 💻 Eng. de Computação (UFOP)
 - 🌱 Estou aprendendo JavaScript
 - 😃 Pronomes: ele/dele
